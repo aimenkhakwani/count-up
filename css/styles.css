@@ -2,6 +2,7 @@ body {
   text-align: center;
   font-family: 'Raleway', sans-serif;
   background-image: url(../numbers.jpg);
+  background-size: cover;
 }
 .container{
   background-color:#e6e6e6;
