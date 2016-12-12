@@ -4,9 +4,9 @@ body {
   background-image: url(../numbers.jpg);
   background-size: cover;
 }
-.container{
+.col-md-8{
   background-color:#e6e6e6;
-  margin-top: 15%;
+  margin-top: 10%;
   border-radius: 5px;
   border: 2px dashed #000;
   padding: 3rem;
